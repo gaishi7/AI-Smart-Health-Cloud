@@ -1,0 +1,84 @@
+<view class="all">
+  <view class="block1">
+    <text class="block1-text" style="color: rgb(21, 128, 252);">全部</text>
+    <text class="block1-text">合理饮食</text>
+    <text class="block1-text">健康咨迅</text>
+    <text class="block1-text">疾病预防</text>
+  </view>
+  <view class="block2">
+    <view class="block2-1" style="width: 499rpx; height: 235rpx; display: block; box-sizing: border-box">
+      <text style="font-size: 15px; position: relative; left: 41rpx; top: 24rpx; font-weight: bold">春季如何养生？老年人慢性病如何...</text>
+      <text style="font-size: 12px; position: relative; left: 41rpx; top: 39rpx; color: rgb(152, 152, 153)">\n春季如何养生？老年人慢性病如何管...</text>
+      <text style="font-size:10px;position: absolute; left: 41rpx; top: 250rpx;color: rgb(152, 152, 153);">2024.04.28</text>
+    </view>
+    <view class="block2-2" style="width: 150rpx; height: 183rpx; display: block; box-sizing: border-box">
+      <image style="width: 199rpx; height: 141rpx; display: inline-block; box-sizing: border-box; position: relative; left: 527rpx; top: -206rpx" src="/image/search/1.png"></image>
+    </view>
+  </view>
+  <view class="block3">
+    <view class="block2-1" style="width: 499rpx; height: 235rpx; display: block; box-sizing: border-box">
+      <text style="font-size: 15px; position: relative; left: 41rpx; top: 24rpx; font-weight: bold">中国青年观察：食补药补、运动健...</text>
+      <text style="font-size: 12px; position: relative; left: 41rpx; top: 39rpx; color: rgb(152, 152, 153)">\n只要出门，不论是踏青游玩，抑或观看演出...</text>
+      <text style="font-size: 10px; position: absolute; left: 41rpx; top: 450rpx; color: rgb(152, 152, 153)">2024.04.28</text>
+    </view>
+    <view class="block2-2" style="width: 150rpx; height: 183rpx; display: block; box-sizing: border-box">
+      <image style="width: 199rpx; height: 141rpx; display: inline-block; box-sizing: border-box; position: relative; left: 527rpx; top: -206rpx" src="/image/search/2.png"></image>
+    </view>
+  </view>
+  <view class="block3">
+    <view class="block2-1" style="width: 499rpx; height: 235rpx; display: block; box-sizing: border-box">
+      <text style="font-size: 15px; position: relative; left: 41rpx; top: 24rpx; font-weight: bold">春饮花茶成健康养生新选择！医生...</text>
+      <text style="font-size: 12px; position: relative; left: 41rpx; top: 39rpx; color: rgb(152, 152, 153)">\n近日，记者走访发现，昆明市场上花茶销售火...</text>
+      <text style="font-size: 10px; position: absolute; left: 41rpx; top: 654rpx; color: rgb(152, 152, 153)">2024.04.28</text>
+    </view>
+    <view class="block2-2" style="width: 150rpx; height: 183rpx; display: block; box-sizing: border-box">
+      <image style="width: 199rpx; height: 141rpx; display: inline-block; box-sizing: border-box; position: relative; left: 527rpx; top: -206rpx" src="/image/search/3.png"></image>
+    </view>
+  </view>
+  <view class="block3">
+    <view class="block2-1" style="width: 499rpx; height: 235rpx; display: block; box-sizing: border-box">
+      <text style="font-size: 15px; position: relative; left: 41rpx; top: 24rpx; font-weight: bold">平和体质也要注意养生 怎么吃更健...</text>
+      <text style="font-size: 12px; position: relative; left: 41rpx; top: 39rpx; color: rgb(152, 152, 153)">\n在各种体质中，有一种体质是平和体质。所谓...</text>
+      <text style="font-size: 10px; position: absolute; left: 41rpx; top: 852rpx; color: rgb(152, 152, 153)">2024.04.28</text>
+    </view>
+    <view class="block2-2" style="width: 150rpx; height: 183rpx; display: block; box-sizing: border-box">
+      <image style="width: 199rpx; height: 141rpx; display: inline-block; box-sizing: border-box; position: relative; left: 527rpx; top: -206rpx" src="/image/search/4.png"></image>
+    </view>
+  </view>
+  <view class="block3">
+    <view class="block2-1" style="width: 499rpx; height: 235rpx; display: block; box-sizing: border-box">
+      <text style="font-size: 15px; position: relative; left: 41rpx; top: 24rpx; font-weight: bold">二十四节气之冬至 ——给大学生的...</text>
+      <text style="font-size: 12px; position: relative; left: 41rpx; top: 39rpx; color: rgb(152, 152, 153)">\n随着天气越来越冷，马上要进入我国二十四节...</text>
+      <text style="font-size: 10px; position: absolute; left: 41rpx; top: 1052rpx; color: rgb(152, 152, 153)">2024.04.28</text>
+    </view>
+    <view class="block2-2" style="width: 150rpx; height: 183rpx; display: block; box-sizing: border-box">
+      <image style="width: 199rpx; height: 141rpx; display: inline-block; box-sizing: border-box; position: relative; left: 527rpx; top: -206rpx" src="/image/search/5.png"></image>
+    </view>
+  </view>
+  <view class="block3">
+    <view class="block2-1" style="width: 499rpx; height: 235rpx; display: block; box-sizing: border-box">
+      <text style="font-size: 15px; position: relative; left: 41rpx; top: 24rpx; font-weight: bold">丁香医生发布中国大学生健康调查报...</text>
+      <text style="font-size: 12px; position: relative; left: 41rpx; top: 39rpx; color: rgb(152, 152, 153)">\n1 月 3 日，丁香园旗下泛健康领域的健康服务...</text>
+      <text style="font-size: 10px; position: absolute; left: 41rpx; top: 1443rpx; color: rgb(152, 152, 153)">2024.04.28</text>
+    </view>
+    <view class="block2-2" style="width: 150rpx; height: 183rpx; display: block; box-sizing: border-box">
+      <image style="width: 199rpx; height: 141rpx; display: inline-block; box-sizing: border-box; position: relative; left: 527rpx; top: -206rpx" src="/image/search/6.png"></image>
+    </view>
+  </view>
+  <view class="block3">
+    <view class="block2-1" style="width: 499rpx; height: 235rpx; display: block; box-sizing: border-box">
+      <text style="font-size: 15px; position: relative; left: 41rpx; top: 24rpx; font-weight: bold">《2024中国大学生健康调查报告》...</text>
+      <text style="font-size: 12px; position: relative; left: 41rpx; top: 39rpx; color: rgb(152, 152, 153)">\n注重护肤又经常熬夜,渴望健康又难以坚持...</text>
+      <text style="font-size: 10px; position: absolute; left: 41rpx; top: 1247rpx; color: rgb(152, 152, 153)">2024.04.28</text>
+    </view>
+    <view class="block2-2" style="width: 150rpx; height: 183rpx; display: block; box-sizing: border-box">
+      <image style="width: 199rpx; height: 141rpx; display: inline-block; box-sizing: border-box; position: relative; left: 527rpx; top: -206rpx" src="/image/search/7.png"></image>
+    </view>
+  </view>
+  
+</view>
+
+
+
+
+

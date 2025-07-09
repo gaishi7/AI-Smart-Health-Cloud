@@ -1,0 +1,58 @@
+/* pages/caption/caption.wxss */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.image {
+  width: 200px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.input-box {
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+.upload-button, .submit-button {
+  margin-bottom: 10px;
+}
+.response-container {
+  margin-top: 0px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* pages/caption/caption.wxss */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.search-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.search-input {
+  flex: 1;
+  border-radius: 20px 20px 20px 20px; /* 设置边框为顶部圆角 */
+  border: 2px solid #ccc;
+  padding: 5px;
+  width: 80%; /* 设置输入框宽度为可调节 */
+  text-align: left; /* 保持文字在输入框的左侧 */
+}

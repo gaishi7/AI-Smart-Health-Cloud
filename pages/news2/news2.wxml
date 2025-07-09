@@ -1,0 +1,63 @@
+<view>
+  <view class="container">
+    <view class="box1" style="margin-bottom:0;"><text class="p1">丁香医生发布中国大学生健康调查报告 多数大学生在“无意识养生 </text></view>
+    <view  class="box1"style="margin-top: 0; width: 677rpx; height: 77rpx; display: block; box-sizing: border-box"><text class="p2">\n2024-04-28 20:00</text><text class="p3">发布于：辽宁</text></view>
+    <view class="box1" style="height: 200px;margin-top: 0;margin-bottom: 10px;">
+      <text class="p4">1 月 3 日，丁香园旗下泛健康领域的健康服务品牌丁香医生联合中国青年报共同发布了《 2020 中国大学生健康调查报告》(以下简称《报告》)。该报告调查对象涵盖不同城市、不同年级的 12117 名大学生，从身体健康、心理健康、生活状态、健康诉求四个维度对当代中国大学生的健康状况和健康意识进行了全方位的解读。</text>
+    </view>
+    <view class="box1" style="height: 130px;margin-top: 10px;">
+      <text class="p4">《报告》显示，一方面，大学生总体健康水平良好，对健康需求的关注度较低;另一方面，相对宽松的校园生活和健康的校园环境推动大学生在无意识中被动参与了很多有助于身体健康的养生行为。</text>
+    </view>
+    <view class="box1" style="height: 50px;margin-top: 10px;">
+      <text class="p4">这届大学生的健康哲学自成一派，多数大学生正在“无意识养生”。</text>
+    </view>
+    <view class="box1" style="height: 50px;margin-top: 10px;">
+      <text class="p4">88%的大学生健康自评超及格线，男生比女生更自信</text>
+    </view>
+    <view class="box1" style="height: 50px;margin-top: 10px;">
+      <text class="p4">调查发现，大学生对自己整体的健康现状较为自信。</text>
+    </view>
+    <view class="box1" style="height: 100px;margin-top: 10px;">
+      <text class="p4">数据显示，88%的大学生健康自评分数超过了 6 分的及格线，总体健康自评平均分为 7.4 分，其中半数大学生打分更是达到 8 分及以上。</text>
+    </view>
+    <view class="box1" style="height: 145px;margin-top: 15px;">
+      <text class="p4">而在细分维度上，《报告》显示，相比女生，男生对自己的健康状态更为自信，无论是心理健康还是身体健康，男大学生都比女大学生评分高 0.4 分。在关于大学生生活状态的具体探究中发现，这可能与他们各自的生活习惯有关。男生有 31% 的人几乎每天都会运动，女生仅占 16% 。</text>
+    </view>
+    <view class="box1" style="height: 45px;margin-top: 50px;">
+      <text class="p4">同时，除了喝酒以外，女生出现各类饮食问题的比例也均比男生更高。面对美食，女生往往难敌诱惑，一边高呼减肥一边管不住嘴是当代女大学生的普遍群像。尤其是甜食零食吃太多、吃撑到胃难受这两个问题，女生中出现的比例均比男生高一倍以上。</text>
+    </view>
+    <view class="box1" style="height: 50px;margin-top: 125px;">
+      <text class="p4">管不住嘴的女大学生普遍对自己的身材不自信，这也呼应了女大学生运动频率低这一现象，管住嘴、迈开腿才能保持好身材。</text>
+    </view>
+    <view class="box1" style="height: 50px;margin-top: 45px;">
+      <text class="p4">《报告》显示，86%的大学生表示，在过去一年中出现过健康困扰。其中，排名前三的分别是皮肤状态不好、睡眠不足和情绪问题。</text>
+    </view>
+    <view class="box1" style="height: 145px;margin-top: 30px;">
+      <text class="p4">而在睡眠方面，34%的男生和47%的女生都有过睡眠困扰，尤其是大四之后，越来越多的大学生选择主动晚睡，硕博士中有一半人睡眠不足。有79%的大学生上床后不会立刻睡觉。同时调查发现，60%的大学生会主动采取行动改善自身健康状况，但相比饮食和运动，尝试过改善睡眠的大学生比例最低。</text>
+    </view>
+    <view class="box1" style="height: 170px;margin-top: 50px;">
+      <text class="p4">丰富的社交生活和各种电子产品或许是他们早睡的最大障碍。在大学生眼里，上床从来不等于睡觉，大学生们会利用这段时间进行丰富的娱乐活动，看剧、聊天、刷社交应用，一旦玩起手机，再想睡觉可能已是两小时之后。68% 的大学生在 23 点到 24 点之间入睡，有18%的大学生在 24 点以后入睡。</text>
+    </view>
+    <view class="box1" style="height: 130px;margin-top: 25px;">
+      <text class="p4">此外，值得注意的是，《报告》还显示，大学生也展现出了对于心理健康的广泛关注，且对心理健康现状的评分超出了身体健康。32%的大学生认为自己心理健康状态非常好，高于 9 分 。</text>
+    </view>
+    <view class="box1" style="height: 180px;margin-top: 25px;">
+      <text class="p4">当然，这并不意味着没有压力，进入大学后的大学生们发现，“上了大学就轻松了”只是一句谎言，他们会面临来自同龄人更为激烈的竞争，以及进入社会前的各种准备。这种竞争给他们带来的压力是多方面的。据调查，近九成大学生最近一年都有过心理困扰，涉及学业、人际关系、就业规划等各个方面。</text>
+    </view>
+    <view class="box1" style="height: 170px;margin-top: 15px;">
+      <text class="p4">在各类心理压力中，最困扰大学生的是学业压力，60% 以上的大学生最近一年都被这一问题所困扰。紧跟其后的困扰是人际关系和性格，大学中的人际交往相比以往会更加复杂，面对的不仅仅是自己的同班同学，还有来自社团、学生组织的同学和老师，怎样处理这些关系是他们常常要思考的问题。</text>
+    </view>
+    <view class="box1" style="height: 130px;margin-top: 25px;">
+      <text class="p4">面对期待与现实的落差，大学生们可不只是想想就算了。60%的大学生都采取过行动改善自己的生活状态，31%的男大学生几乎每天都会运动，女学生通常以改变饮食为主。面对心理压力时，91%的大学生尝试解决。</text>
+    </view>
+    <view class="box1" style="height: 90px;margin-top: 25px;">
+      <text class="p4">除此之外，健康的校园环境也推动了大学生参与诸多“无意识养生”行为，客观上弥补了他们对健康关注的缺失，是保障他们健康状况良好的有力因素。</text>
+    </view>
+    <view class="box1" style="height: 200px;margin-top: 25px;">
+      <text class="p4">每周 2 次的体育课和随时随地能接触到操场、篮球场也是大学生独有的优势。《报告》显示，60%的大学生会为了身体健康而运动，跑步则是大学生最普及的运动，有70%的人选择跑步为常做的运动方式，其次是羽毛球和篮球。相比之下，职场人士的运动场景相对单一，大都为下班后的健身房，且通常会因为工作太累，而只想休息。</text>
+    </view>
+    <view class="box1" style="height: 110px;margin-top: 25px;">
+      <text class="p4">作为泛健康领域值得信赖的健康服务品牌，丁香医生一直秉承“健康更多，生活更好”的愿景，为用户提供更多元化的大众健康服务，聚焦医院外健康场景，致力于做健康生活方式的向导。</text>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,22 @@
+<!--pages/caption/caption.wxml-->
+<view class="container" style="width: 750rpx; height: 2000rpx; display: flex; box-sizing: border-box">
+  <view class="search-container">
+    <image style="position: relative; height: 60rpx; width: 74rpx; left: 0rpx; top: -533rpx; display: block; box-sizing: border-box" class="search-icon" src="/image/vqa/搜索.png" />
+    <input style="position: relative; left: -20rpx; top: -529rpx; width: 591rpx; height: 68rpx; display: block; font-size: 14px; box-sizing: border-box" class="search-input" type="text" placeholder="请输入搜索的内容" />
+  </view>
+  <image class="image" src="/image/vqa/DM_20240424213114_001.jpg" style="position: relative; left: -1rpx; top: -531rpx; width: 800rpx; height: 284rpx; display: block; box-sizing: border-box"></image>
+  <input style="width: 642rpx; font-size: 14px; height: 67rpx; display: block; box-sizing: border-box; position: relative; top: -508rpx; left: -2rpx" class="input-box" type="text" placeholder="请输入您的问题" bindinput="onTextInput" />
+  <button class="upload-button" bindtap="chooseAndUploadImage" style="width: 235rpx; font-size: 15px; height: 68rpx; display: block; box-sizing: border-box; left: -236rpx; top: -474rpx; line-height: 20px; position: relative">选择图片</button>
+  <button class="submit-button" bindtap="submitData" style="position: absolute; left: 24rpx; top: 683rpx; width: 706rpx; height: 94rpx; display: block; box-sizing: border-box; border-radius: 20px; background-color: #409EFF; color: white; font-family: SimHei; line-height: 33px">{{buttonText}} </button>
+
+  <text style="position: relative; font-size: 14px; left: -292rpx; top: -716rpx">* 问题描述</text>
+
+  <text style="position: relative; font-size: 14px; left: -265rpx; top: -651rpx">* 传入病理图片</text>
+
+  <image style="position: relative; width: 302rpx; height: 250rpx; display: block; box-sizing: border-box; left: 168rpx; top: -771rpx" src="{{imagePath}}" />
+
+  <text style="position: relative; left: -248rpx; top: -627rpx; font-size: 14px; width: 181rpx; height: -512rpx; display: block; box-sizing: border-box">* 病理分析结果</text>
+  </view>
+<view class="response-container" style="position: relative; left: 22rpx; top: -1185rpx; width: 707rpx; height: 1406rpx; display: block; box-sizing: border-box">
+    {{modelResponse}}
+  </view>

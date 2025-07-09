@@ -1,0 +1,63 @@
+{
+  "style": "v2",
+  "pages": [
+    
+    "pages/home/index",
+    "pages/food/food",
+    "pages/myreport/myreport",
+    "pages/more/more",
+    "pages/search/index",
+    "pages/my/index",
+    "pages/personal/personal",
+    "pages/logs/logs",
+    "pages/addfamilymember/addfamilymember",
+    "pages/healthtest/healthtest",
+    "pages/article/article",
+    "pages/sport/sport",
+    "pages/setting/setting",
+    "pages/tomato/index",
+    "pages/caption/caption",
+    "pages/vqa/vqa",
+    "pages/diary/diary",
+    "pages/news1/news1",
+    "pages/news2/news2"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#479FFF",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#0477d6",
+    "borderStyle": "white",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/home/index",
+        "iconPath": "/image/home.png",
+        "selectedIconPath": "/image/selecthome.png",
+        "text": "主页"
+      },
+      {
+        "pagePath": "pages/diary/diary",
+        "iconPath": "/image/daily.png",
+        "selectedIconPath": "/image/selectdaily.png",
+        "text": "记录"
+      },
+
+      {
+        "pagePath": "pages/search/index",
+        "iconPath": "/image/search.png",
+        "selectedIconPath": "/image/selectsearch.png",
+        "text": "新闻"
+      },
+      {
+        "pagePath": "pages/my/index",
+        "iconPath": "/image/my.png",
+        "selectedIconPath": "/image/selectmy.png",
+        "text": "我的"
+      }
+    ]
+  }
+}

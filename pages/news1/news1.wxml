@@ -1,0 +1,27 @@
+<view>
+  <view class="container">
+    <view class="box1" style="margin-bottom:0;"><text class="p1">春季如何养生？老年人慢性病如何管理？ 十院专家深入社区传授健康之道 </text></view>
+    <view  class="box1"style="margin-top: 0; width: 677rpx; height: 77rpx; display: block; box-sizing: border-box"><text class="p2">\n2024-04-28 19:00</text><text class="p3">发布于：辽宁</text></view>
+    <view class="box1" style="height: 175px;margin-top: 0;margin-bottom: 10px;">
+      <text class="p4">春季如何养生？老年人慢性病如何管理？近日，“心家园”名医进社区项目联合长宁区天山路街道，举行了两场健康科普讲座，上海市第十人民医院中医科的两位资深专家颜琼枝和李瑾，分别就“春季养生”与“老年人慢性病管理”进行了讲解和分享，现场近百位居民听得津津有味。</text>
+    </view>
+    <view class="box1" style="height:250px;">
+      <image style="width: 100%;height: 100%;" src="/image/search/1.png"></image>
+    </view>
+    <view class="box1" style="height: 195px;margin-top: 15px;">
+      <text class="p4">颜琼枝是海派中医颜氏内科第四代嫡系传人，也是同济大学附属第十人民医院中医科主治医师。她强调了中医理论在日常生活中的应用，包括情绪管理、饮食、运动、睡眠习惯和季节性疾病的预防，建议大家通过传统中医的方法，如食疗、穴位按摩和草药使用，来促进健康和预防疾病。颜医生关于“春季养生”的核心观点是：春养肝，夏防湿，春夏养阳身强体壮。</text>
+    </view>
+    <view class="box1" style="height: 275px;margin-top: 50px;">
+      <text class="p4">颜琼枝认为，春季养生应着重于肝脏的保养，避免动怒和急躁，以免影响肝气疏泄。饮食上推荐食用有助于阳气生发的食物，如韭菜、芹菜和葱姜等；生活起居方面，应早睡早起，多晒太阳，多吹春风，同时适量进行户外运动，如太极、散步和球类，以促进身体健康。运动时，应避免剧烈活动，以免损伤阳气，运动至微汗即可。阳气是身体的能量源，不足时可能导致怕冷、乏力等症状。保护阳气的方法包括避免冷食、保暖，尤其是颈部、腰部和脚踝，以及避免熬夜。</text>
+    </view>
+    <view class="box1" style="height: 75px;margin-top: 30px;">
+      <text class="p4">上海市第十人民医院全科医学科主任、副主任医师李瑾强调，均衡饮食、良好生活习惯、适度运动以及保持乐观心态等健康生活方式对人体健康极为有益。</text>
+    </view>
+    <view class="box1" style="height: 220px;margin-top: 50px;">
+      <text class="p4">李瑾表示，高血压的形成受多种因素影响，包括不良的生活习惯（如过量饮酒、吸烟、缺乏运动、长期焦虑等）、环境因素（如空气污染、高海拔地区）以及遗传因素（家族病史）。治疗高血压通常需要终身服药，但继发性高血压等特殊情况可能不需持续用药。除了药物治疗，患者还应注重非药物治疗，如合理饮食、适量运动、减压和睡眠管理。饮食上，推荐高血压患者采用DASH饮食法，多吃全谷类和蔬菜，减少钠盐摄入，增加钾摄入。</text>
+    </view>
+    <view class="box1" style="height: 155px;margin-top: 60px;">
+      <text class="p4">上海市第十人民医院全科医学科主任、副主任医师李瑾强调，均衡饮食、良好生活习惯、适度运动以及保持乐观心态等健康生活方式对人体健康极为有益。</text>
+    </view>
+  </view>
+</view>

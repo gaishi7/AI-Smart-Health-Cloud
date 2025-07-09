@@ -1,0 +1,36 @@
+.all{
+  height: 1000rpx;
+  background-color: rgb(242, 242, 242);
+}
+.block1{
+  width: 100%;
+  height: 50px;
+  background-color: white;
+}
+.block1-text{
+  margin-left: 32px;
+  position: relative;
+  top: 15px;
+}
+.block2{
+  width:100%;
+  background-color: white;
+  margin-top: 10px;
+  height:100px;
+}
+.block2-text{
+  margin-left: 32px;
+  position: relative;
+  top: 15px;
+}
+.block3{
+  width:100%;
+  background-color: white;
+  margin-top:3px;
+  height:100px;
+}
+.block3-text{
+  margin-left: 32px;
+  position: relative;
+  top: 15px;
+}

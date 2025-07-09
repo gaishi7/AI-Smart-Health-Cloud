@@ -1,0 +1,31 @@
+/* pages/news1/news1.wxss */
+.box1{
+  width: 90%;
+  height: 100px;
+  margin: 0 auto;
+  margin-top: 15px;
+  text-align: justify;
+}
+.p1{
+  font-size: 24px;
+  font-weight: bold;
+}
+.p2{
+  font-size: 14px;
+  position: relative;
+  top: -8px;
+  float: left;
+  color: rgb(122, 122, 122);
+}
+.p3{
+  font-size: 14px;
+  position: relative;
+  top: 5px;
+  float: left;
+  left: 25px;
+  color: rgb(122, 122, 122);
+}
+.p4{
+  font-size: 17px;
+  line-height: 26px;
+}

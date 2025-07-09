@@ -1,0 +1,21 @@
+<!--pages/caption/caption.wxml-->
+<view class="container" style="width: 750rpx; height: 2000rpx; display: flex; box-sizing: border-box">
+  <view class="search-container">
+    <image style="position: relative; height: 60rpx; width: 72rpx; left: 0rpx; top: -587rpx; display: block; box-sizing: border-box" class="search-icon" src="/image/vqa/搜索.png" />
+    <input style="position: relative; left: -20rpx; top: -588rpx; width: 591rpx; height: 68rpx; display: block; font-size: 14px; box-sizing: border-box" class="search-input" type="text" placeholder="请输入搜索的内容" />
+  </view>
+  <image class="image" src="/image/caption/DM_20240425170424_001.jpg" style="position: relative; left: -2rpx; top: -583rpx; width: 800rpx; height: 279rpx; display: block; box-sizing: border-box"></image>
+
+  <button class="upload-button" bindtap="chooseAndUploadImage" style="width: 235rpx; font-size: 15px; height: 68rpx; display: block; box-sizing: border-box; left: -220rpx; top: -442rpx; line-height: 20px; position: relative">选择图片</button>
+
+  <text style="position: relative; font-size: 14px; left: -247rpx; top: -597rpx">* 传入病理图片</text>
+
+  <image style="position: relative; width: 268rpx; height: 249rpx; display: block; box-sizing: border-box; left: 207rpx; top: -689rpx" src="{{imagePath}}" />
+
+  <text style="position: relative; left: -247rpx; top: -566rpx; font-size: 14px">* 病理分析结果</text>
+
+  <button class="submit-button" bindtap="submitData" style="position: absolute; left: 21rpx; top: 697rpx; width: 706rpx; height: 94rpx; display: block; box-sizing: border-box; border-radius: 20px; background-color: #409EFF; color: white; font-family: SimHei; line-height: 35px">{{buttonText}} </button>
+  </view>
+<view class="response-container" style="position: relative; left: 20rpx; top: -1193rpx; width: 707rpx; height: 1406rpx; display: block; box-sizing: border-box">
+    {{modelResponse}}
+  </view>

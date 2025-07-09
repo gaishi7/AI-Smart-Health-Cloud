@@ -1,0 +1,66 @@
+<view class="container" style="background-color: rgb(242, 242, 242);">
+  <view style="width: 750rpx; height: 68rpx; display: block; box-sizing: border-box;margin-top: 5px;">
+    <text class="headtext">健康</text>
+    <icon class="iconfont icon-sousuo"></icon>
+    <icon class="iconfont icon-dian"></icon>
+  </view>
+  <view class="block1" style="width: 679rpx; height: 524rpx; display: block; box-sizing: border-box; top: 22rpx; left: 14rpx">
+    <cover-image class="block1" src="/image/record/12.jpg" style="width: 691rpx; height: 485rpx; display: block; box-sizing: border-box"></cover-image>
+    <image style="width: 691rpx; position: relative; float: left; left: 14rpx; top: -464rpx; height: 462rpx; display: block; box-sizing: border-box" src="/image/record/11.gif">21</image>
+
+  </view>
+  <view class="block2">
+    <view class="block2-1">
+      <icon class="iconfont jianzhi"></icon>
+      <text class="block2-1-text">\n智能减脂</text>
+    </view>
+    <view class="block2-2">
+      <icon class="iconfont jiankang"></icon>
+      <text class="block2-2-text">\n健康管理</text>
+    </view>
+    <view class="block2-3">
+      <icon class="iconfont zhumian"></icon>
+      <text class="block2-3-text">\n助眠音乐</text>
+    </view>
+    <view class="block2-4">
+      <icon class="iconfont shipu"></icon>
+      <text class="block2-4-text">\n健康管理</text>
+    </view>
+  </view>
+  <view class="block3">
+    <view class="block3-1">
+      <text class="block3-1-text">运动记录 <text class='block3-1-text2'>·</text></text>
+      <text class="block3-1-text" style="font-size: 12px;">\n<text class="block3-1-text3">0.60</text> 公里</text>
+      <image style="margin-left:27px;width: 80%;height: 50%;" src="/image/record/4.jpg"></image>
+    </view>
+    <view class="block3-2">
+      <text class="block3-1-text">睡眠 <text class='block3-1-text2'>·</text></text>
+      <text class="block3-1-text" style="font-size: 12px;">\n<text class="block3-1-text3">7 </text>小时<text class="block3-1-text3"> 41 </text>小时</text>
+      <image style="margin-left:10px;margin-top:15px;width: 90%;height: 45%;" src="/image/record/5.jpg"></image>
+    </view>
+  </view>
+  <view class="block3">
+    <view class="block3-1">
+      <text class="block3-1-text">心脏健康 <text class='block3-1-text2'>·</text></text>
+      <text class="block3-1-text" style="font-size: 12px;">\n<text class="block3-1-text3">76 </text>次/分钟</text>
+      <image style="margin-left:10px;margin-top:15px;width: 90%;height: 45%;" src="/image/record/6.jpg"></image>
+    </view>
+    <view class="block3-2">
+      <text class="block3-1-text">压力 <text class='block3-1-text2'>·</text></text>
+      <text class="block3-1-text" style="font-size: 12px;">\n<text class="block3-1-text3">46 </text>正常</text>
+      <image style="margin-left:30px;margin-top:10px;width: 60%;height: 55%;" src="/image/record/7.jpg"></image>
+    </view>
+  </view>
+  <view class="block3" style="margin-bottom: 20px;">
+    <view class="block3-1">
+      <text class="block3-1-text">体温 <text class='block3-1-text2'>·</text></text>
+      <text class="block3-1-text" style="font-size: 12px;">\n<text class="block3-1-text3">36.5 </text>°C</text>
+      <image style="margin-left:20px;margin-top:20px;width: 70%;height: 55%;" src="/image/record/8.jpg"></image>
+    </view>
+    <view class="block3-2">
+      <text class="block3-1-text">血氧饱和度 <text class='block3-1-text2'>·</text></text>
+      <text class="block3-1-text" style="font-size: 12px;">\n<text class="block3-1-text3">97 </text>%</text>
+      <image style="margin-left:25px;margin-top:0px;width: 70%;height: 55%;" src="/image/record/9.jpg"></image>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,81 @@
+<view class="container" style="width: 750rpx; height: 1293rpx; display: flex; box-sizing: border-box; background: rgb(232, 232, 238)">
+  <view class="top" style="border-bottom-left-radius: 30px; border-bottom-right-radius: 30px; background: #479FFF; width: 750rpx; height: 380rpx; display: block; box-sizing: border-box">
+    <view bindtap="bindViewTap" class="userinfo">
+
+
+    </view>
+
+    <image style="position: relative; left: -205rpx; top: 56rpx; width: 150rpx; height: 143rpx; display: block; box-sizing: border-box; border-radius: 15px" src="/image/my/id.png" />
+
+    <text style="position: relative; left: 18rpx; top: -191rpx; font-weight: bold; color: rgb(255, 255, 255); font-size: 20px">我的</text>
+
+    <text style="position: relative; left: 200rpx; top: -75rpx; font-size: 20px; color: rgb(255, 255, 255);font-weight: bold;">大连民族大学</text>
+
+    <text style="position: relative; left: -27rpx; top: -29rpx; color: rgb(255, 255, 255);font-size: 12px;">手机号：185********</text>
+
+
+
+    <view bindtap="personal" style="position: relative; width: 100rpx; height: 100rpx; display: block; box-sizing: border-box; left: 630rpx; top: -89rpx">
+      <text style="position: relative; color: rgb(255,255,255);">修改 ></text>
+    </view>
+  </view>
+  <view class="menu" style="position: relative; left: 0rpx; top: -54rpx">
+    <view class="dingdan" bindtap="myreport" style="position: relative; left: 25rpx; top: -62rpx; background: white; width: 352rpx; height: 191rpx; display: block; box-sizing: border-box; border-radius: 12px">
+      <image style="position: relative; left: 0rpx; top: 31rpx" src="../../image/dingdan.png" />
+      <view style="position: relative; left: 0rpx; top: 29rpx">个人健康报告</view>
+    </view>
+    <view bindtap="healthtest" class="guanzhu" style="position: relative; left: -25rpx; top: -62rpx; background: white; width: 375rpx; height: 191rpx; display: block; box-sizing: border-box; border-radius: 12px">
+      <image style="position: relative; left: 0rpx; top: 32rpx" src="../../image/guanzhu.png" />
+      <view style="position: relative; left: 0rpx; top: 31rpx">健康自测</view>
+    </view>
+  </view>
+  <view class="content">
+    <view class="lists">
+
+    </view>
+  </view>
+
+  <view style="position: relative; width: 675rpx; background: #ffffff; height: 193rpx; left: 37rpx; top: -50rpx; display: block; box-sizing: border-box">
+    <image style="position: relative; left: -231rpx; top: 43rpx; width: 72rpx; height: 64rpx; display: block; box-sizing: border-box" src="/image/my/用户数据.png" />
+    <image style="position: relative; left: -81rpx; top: -35rpx; width: 72rpx; height: 64rpx; display: block; box-sizing: border-box" src="/image/my/在线问诊.png" />
+    <image style="position: relative; left: 72rpx; top: -112rpx; width: 72rpx; height: 64rpx; display: block; box-sizing: border-box" src="/image/my/医生岗位.png" />
+    <image style="position: relative; left: 222rpx; top: -189rpx; width: 72rpx; height: 64rpx; display: block; box-sizing: border-box" src="/image/my/i07.png" />
+    <text style="position: relative; left: 50rpx; top: -189rpx; font-size: 15px">个人信息</text>
+    <text style="position: relative; left: 87rpx; top: -191rpx; font-size: 14px">在线问诊</text>
+    <text style="position: relative; left: 132rpx; top: -191rpx; font-size: 14px">病理分析</text>
+    <text style="position: relative; left: 175rpx; top: -191rpx; font-size: 14px">信息授权</text>
+  </view>
+
+  <text style="position: relative; left: 75rpx; top: -22rpx; font-size: 15px; font-weight: bold">数据</text>
+  <view style="position: relative; width: 675rpx; background: #ffffff; height: 408rpx; left: 31rpx; top: -12rpx; display: block; box-sizing: border-box; border-radius: 15px">
+    <view style="position: relative; width: 597rpx; background: #fdfdfd; height: 100rpx; display: block; box-sizing: border-box; left: 39rpx; top: 12rpx">
+      <text style="position: relative; left: 0rpx; top: 12rpx">我的成就</text>
+      <text style="position: relative; left: 447rpx; top: 14rpx; color: #999898">></text>
+    </view>
+    <view style="position: relative; width: 597rpx; background: #fdfdfd; height: 100rpx; display: block; box-sizing: border-box; left: 39rpx; top: 12rpx; ">
+      <text style="position: relative; left: 0rpx; top: 8rpx">我的数据</text>
+      <text style="position: relative; left: 449rpx; top: 10rpx; color: #999898">></text>
+    </view>
+    <view style="position: relative; width: 597rpx; background: #fdfdfd; height: 100rpx; display: block; box-sizing: border-box; left: 39rpx; top: 18rpx">
+      <text style="position:relative;">我的活动</text>
+      <text style="position: relative; left: 449rpx; top: 4rpx; color: #999898">></text>
+    </view>
+    <view style="position: relative; width: 597rpx; background: #fdfdfd; height: 80rpx; display: block; box-sizing: border-box; left: 39rpx; top: 18rpx">
+      <text style="position:relative;">我的路线</text>
+      <text style="position: relative; left: 449rpx; top: 4rpx; color: #999898">></text>
+    </view>
+  </view>
+
+  <view style="position: relative; width: 675rpx; background: #ffffff; height: 81rpx; display: block; box-sizing: border-box; left: 27rpx; top: 16rpx; margin-bottom: 20px; border-radius: 15px">
+    <text style="position: relative; left: 264rpx; top: 19rpx;">退出登录</text>
+  </view>
+
+  <view style="position: relative; width: 570rpx; background-color: #e4e4e4; height: 1px; left: 83rpx; top: -442rpx; display: block; box-sizing: border-box"></view>
+  <view style="position: relative; width: 570rpx; background-color: #e4e4e4; height: 1px; left: 85rpx; top: -340rpx; display: block; box-sizing: border-box"></view>
+  <view style="position: relative; width: 570rpx; background-color: #e4e4e4; height: 1px; left: 82rpx; top: -250rpx; display: block; box-sizing: border-box"></view>
+  <view style="position: relative; width: 570rpx; background-color: #e4e4e4; height: 1px; left: 82rpx; top: -160rpx; display: block; box-sizing: border-box"></view>
+</view>
+
+
+
+
