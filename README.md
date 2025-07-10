@@ -14,3 +14,13 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1f051fcb-f7b1-4b3a-bee3-741f80f0d01f" alt="Logo" width="300">
 </div>
+
+## 健康新闻模块
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/242d5c17-fd0a-427b-bb27-feef3e1597e7" alt="Logo" width="300">
+</div>
+
+## 个人中心模块
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5d5031e8-325a-4a22-a442-633538434de8" alt="Logo" width="300">
+</div>
