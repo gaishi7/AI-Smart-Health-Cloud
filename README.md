@@ -4,3 +4,13 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/33ea7904-9fee-4b76-8fbd-527590c0a4e4" alt="Logo" width="300">
 </div>
+
+## 病理描述模块
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bfbafd2f-a76b-4f2e-97f4-53f5b515286d" alt="Logo" width="300">
+</div>
+
+## 健康记录模块
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1f051fcb-f7b1-4b3a-bee3-741f80f0d01f" alt="Logo" width="300">
+</div>
